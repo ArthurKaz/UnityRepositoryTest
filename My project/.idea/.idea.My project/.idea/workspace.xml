@@ -3,14 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6e42cea6-7f22-40a4-a796-36fd3ccc1911" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Assets/Test1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Test1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Test1.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/tst2.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673011063883</updated>
-      <workItem from="1673011066379" duration="901000" />
+      <workItem from="1673011066379" duration="317000" />
     </task>
     <servers />
   </component>
