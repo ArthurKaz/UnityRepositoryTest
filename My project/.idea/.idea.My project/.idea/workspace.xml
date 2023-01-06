@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e42cea6-7f22-40a4-a796-36fd3ccc1911" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Test1.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Test1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Test1.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
